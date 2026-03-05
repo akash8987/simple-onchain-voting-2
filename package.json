@@ -1,0 +1,17 @@
+{
+  "name": "simple-onchain-voting",
+  "version": "1.0.0",
+  "description": "Smart contract for decentralized voting",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^6.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.17.0"
+  },
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
